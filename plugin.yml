@@ -1,0 +1,4 @@
+name: OutpostAntiVPN
+version: 0.1
+main: me.moomoo.outpostantivpn.main
+description: antivpn for outpost
